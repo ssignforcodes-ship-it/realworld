@@ -8,7 +8,8 @@
 
 ## Developer Information
 
-Developer：Diego Gletton Nunes
+Developer：GEDIAO RIBEIRO DA SILVA
+
 Develop Date：2025年6月29日
 
 
