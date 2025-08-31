@@ -8,9 +8,9 @@
 
 ## Developer Information
 
-Developer：GEDIAO RIBEIRO DA SILVA
+Developer: GEDIAO RIBEIRO DA SILVA
 
-Develop Date：2025年6月29日
+Develop Date: 2025年6月29日
 
 
 ## Features
